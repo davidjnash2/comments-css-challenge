@@ -1,0 +1,60 @@
+body{
+    background-color:hsl(223, 19%, 93%);
+}
+
+.comment-field {
+    margin: auto;
+    width: 75%;
+}
+
+.comment {
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Rubik', sans-serif;
+    margin: auto;
+    width: 75%;
+}
+
+.reply {
+    width: 50%;
+}
+
+.reply {
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.username {
+    font-weight: 500;
+}
+
+
+p {
+    text-align: left;
+    font-family: 'Rubik', sans-serif;
+    font-weight:200;
+}
+
+
+.comment-text {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    color: hsl(211, 10%, 45%);
+    text-align: left;
+}
+
+
+.comment-header {
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.link {
+    font-weight:500;
+    color: hsl(238, 40%, 52%);
+}
+
+
+/* #username {
+    font-weight: 
+} */
